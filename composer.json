@@ -1,0 +1,17 @@
+{
+    "name": "fhoke/linter",
+    "description": "A code linter and fixer used by Fhoke for PHP and WordPress projects.",
+    "authors": [
+        {
+            "name": "Seb Kay",
+            "email": "seb@fhoke.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "laravel/pint": "^1.13"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
