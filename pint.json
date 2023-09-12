@@ -1,0 +1,20 @@
+{
+    "preset": "psr12",
+    "rules": {
+        "method_chaining_indentation": true,
+        "trailing_comma_in_multiline": true,
+        "concat_space": {
+            "spacing": "one"
+        },
+        "array_indentation": true,
+        "array_syntax": {
+            "syntax": "short"
+        },
+        "binary_operator_spaces": {
+            "operators": {
+                "=>": "align_single_space",
+                "=": "align_single_space"
+            }
+        }
+    }
+}
