@@ -9,7 +9,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "laravel/pint": "^1.13"
+        "laravel/pint": "^1.18"
     },
     "config": {
         "sort-packages": true
